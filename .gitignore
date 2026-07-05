@@ -6,3 +6,4 @@ venv/
 # The interpreter creates it automatically
 __pycache__/
 *.iml
+.env
